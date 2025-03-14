@@ -15,6 +15,9 @@
 VR Art Gallery is a mobile Virtual Reality experience built in Unity using C# for Google Cardboard. It offers an immersive environment where users can explore a virtual art gallery featuring a collection of famous paintings and two small sculptures. The experience is designed to be intuitive—by simply looking down, users can navigate through the gallery.
 
 ---
+![image(1)](https://github.com/user-attachments/assets/18062cf4-845b-4eca-b04a-2933d7aecd2a)
+![image(2)](https://github.com/user-attachments/assets/ca80a6f2-0ec0-44ef-82fd-54d12b1c30f0)
+
 
 ## Features
 
